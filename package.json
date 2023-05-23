@@ -1,6 +1,6 @@
 {
-  "version": "0.0.0",
-  "name": "CHANGE_ME",
+  "version": "0.0.1",
+  "name": "whatsapp-button",
   "private": true,
   "license": "UNLICENSED",
   "scripts": {
@@ -41,5 +41,8 @@
     "prettier": "^2.2.0",
     "typescript": "^3.9.6",
     "@vtex/danger": "^0.2.7"
+  },
+  "dependencies": {
+    "@vtex/css-handles": "^1.1.3"
   }
 }
